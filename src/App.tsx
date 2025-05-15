@@ -21,13 +21,13 @@ function App() {
             Computer Science Student & Aspiring Software Engineer
           </p>
           <div className="flex space-x-4 justify-center">
-            <a href="https://github.com/saineekshay" className="text-2xl hover:text-blue-300 transition-colors">
+            <a href="https://github.com/saineekshay" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-blue-300 transition-colors">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/saineekshay" className="text-2xl hover:text-blue-300 transition-colors">
+            <a href="https://linkedin.com/in/saineekshay" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-blue-300 transition-colors">
               <FaLinkedin />
             </a>
-            <a href="https://instagram.com/saineekshay" className="text-2xl hover:text-blue-300 transition-colors">
+            <a href="https://instagram.com/saineekshay" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-blue-300 transition-colors">
               <FaInstagram />
             </a>
             <a href="mailto:aadisaineekshay@gmail.com" className="text-2xl hover:text-blue-300 transition-colors">
@@ -211,13 +211,13 @@ function App() {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold mb-4">Social Profiles</h3>
               <div className="flex gap-4">
-                <a href="https://linkedin.com/in/saineekshay" className="text-3xl text-blue-600 hover:text-blue-800">
+                <a href="https://linkedin.com/in/saineekshay" target="_blank" rel="noopener noreferrer" className="text-3xl text-blue-600 hover:text-blue-800">
                   <FaLinkedin />
                 </a>
                 <a href="mailto:aadisaineekshay@gmail.com" className="text-3xl text-blue-600 hover:text-blue-800">
                   <FaEnvelope />
                 </a>
-                <a href="https://instagram.com/saineekshay" className="text-3xl text-blue-600 hover:text-blue-800">
+                <a href="https://instagram.com/saineekshay" target="_blank" rel="noopener noreferrer" className="text-3xl text-blue-600 hover:text-blue-800">
                   <FaInstagram />
                 </a>
               </div>
